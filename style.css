@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #f4f4f4;
+    color: #333;
+}
+header {
+    background: #0077b6;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+.hero {
+    padding: 2em;
+    background: #caf0f8;
+    text-align: center;
+}
+.boats ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+.boats img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background: #0077b6;
+    color: white;
+}
